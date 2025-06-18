@@ -7,7 +7,7 @@
 <p align="center">
   <b>🐣 Info</b>  
   <br/>
-  name: boyeon shin
+  boyeon shin
   <br/>
   backend developer
   
@@ -29,5 +29,5 @@
   <br/>
   📱 <b>Contact</b>  
   <br/>
-  ✉️ email: <a href="mailto:anna007096@gmail.com">anna007096@gmail.com</a>  
+  ✉️ email: <a href="mailto:anna007096@gmail.com">anna007096@gmail.com</a>
 </p>
